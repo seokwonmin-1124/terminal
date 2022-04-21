@@ -1,0 +1,29 @@
+@import url("https://cdn.jsdelivr.net/gh/wan2land/d2coding/d2coding-full.css");
+
+* {
+    font-family: 'D2Coding', monospace;
+    font-size: 1.3rem;
+}
+
+body {
+    color: #e4e4e4;
+    background-color: #181818;
+}
+
+p {
+    margin: 0;
+}
+
+#type {
+    color: #e4e4e4;
+    background-color: #181818;
+    border: none;
+    width: 60%;
+    position: absolute;
+    outline: none;
+}
+
+#terminal>p>span,
+#terminal>span {
+    color: #a5a5a5;
+}
